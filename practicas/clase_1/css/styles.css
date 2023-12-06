@@ -1,0 +1,23 @@
+html {
+
+    scroll-behavior: smooth;
+
+}
+
+body {
+
+    background-color: #1c1e1f;
+
+}
+
+a {
+
+    color: #117a37;
+
+}
+
+.paragraph, .header_1, .header_2, .header_3, .header_5 {
+
+    color: #D1CDC7;
+
+}

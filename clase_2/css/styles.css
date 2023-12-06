@@ -1,0 +1,35 @@
+ul {
+
+    list-style: none;
+    font-size: 50px;
+
+}
+
+/* Select with class selector */
+
+.parrafoAzul {
+
+    color: blue;
+    font-weight: 600;
+
+}
+
+/* Select with id selector */
+
+#parrafoAmarillo {
+
+    color: yellowgreen;
+
+}
+
+div {
+
+    border: 1px solid red;
+
+}
+
+div.container {
+
+    
+
+}
