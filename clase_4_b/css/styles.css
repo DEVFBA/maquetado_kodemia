@@ -1,0 +1,81 @@
+.fixedPosition {
+
+    position: fixed;
+    top: 100px;
+    left: 60px;
+
+}
+
+.relativePosition {
+
+    position: relative;
+    top: 100px;
+    left: 50px
+
+}
+
+.absolutePosition {
+
+    position: absolute;
+
+}
+
+.container {
+
+    border: 1px solid blue;
+    width: 500px;
+    height: 600px;
+
+}
+
+.box {
+
+    border: 1px solid black;
+    width: 100px;
+    height: 200px;
+
+}
+
+.cuadro1 {
+
+    top: 20px;
+    left: 20px;
+
+}
+
+.cuadro2 {
+
+    top: 20px;
+    left: 166px;
+
+}
+
+.cuadro3 {
+
+    top: 20px;
+    left: 322px;
+
+}
+
+.cuadro4 {
+
+    top: 300px;
+    left: 20px;
+
+}
+
+.cuadro5 {
+
+    top: 300px;
+    left: 166px;
+
+}
+
+.cuadro6 {
+
+    top: 300px;
+    left: 322px;
+
+}
+
+
